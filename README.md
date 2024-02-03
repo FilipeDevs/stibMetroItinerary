@@ -23,3 +23,7 @@ mvn compile
 ```
 mvn javafx:run
 ```
+
+# Screenshots
+
+![Dashboard View](https://i.imgur.com/yKCLDpr.png)
